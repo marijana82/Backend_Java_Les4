@@ -1,6 +1,6 @@
 package src;
 
-public abstract class ElectricPokemon extends Pokemon {
+public class ElectricPokemon extends Pokemon {
 
     private String accuracy;
 

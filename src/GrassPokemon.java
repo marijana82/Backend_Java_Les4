@@ -1,6 +1,6 @@
 package src;
 
-public abstract class GrassPokemon extends Pokemon {
+public class GrassPokemon extends Pokemon {
 
     private String defence;
     public GrassPokemon(String name, int weight, int height, int hp, String sound, String food, String defence) {
