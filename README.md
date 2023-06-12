@@ -101,7 +101,7 @@ Het is uitdagender om jouw eigen stappenplan te maken, maar als je niet weet waa
 - `FirePokemon`
 - `WaterPokemon`
 - `GrassPokemon`
-- `ElectricPokemon`
+- `src.ElectricPokemon`
 
 5. Instantieer in de `main` methode jouw 4 verschillende Pokèmon met de verschillende attributen.
 
