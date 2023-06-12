@@ -68,8 +68,18 @@ public class Pokemon {
         this.food = food;
     }
 
+    //4. methods
+    public abstract void speaks(String sound);
+
+    public abstract void eats(String food);
+
+    public void testingMyPokeHeight() {
+        System.out.println("This is the pokemon's height: " + height);
+    }
+
+
 }
 
 
 
-}
+
