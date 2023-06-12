@@ -1,6 +1,6 @@
 package src;
 
-public class Pokemon {
+public abstract class Pokemon {
     //1. instance variables
     private String name;
     private int weight;
